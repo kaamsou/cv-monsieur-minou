@@ -17,7 +17,7 @@ Le dépôt GitHub s’intitule `cv-monsieur-minou` et contient les fichiers suiv
 |------------------|----------------------------------------------------------------------|
 | `index.md`        | Le CV fictif de Monsieur Minou (anciennement `cv.md`)               |
 | `documentation.md` | Le présent fichier, expliquant tout le déroulé du projet            |
-| `minou.jpg`       | Une image illustrative (chat mignon)                                |
+| `Mr.minou.png`       | Une image illustrative (chat mignon)                                |
 | `README.md`       | Présentation du projet sur GitHub                                   |
 
 ---
