@@ -1,6 +1,6 @@
 # Monsieur Minou
 
-![Photo de Monsieur Minou](minou.jpg)
+![Photo de Monsieur Minou](MR.minou.jpg)
 
 *Félin professionnel, expert en siestes, câlins stratégiques et chasse de chaussettes.*
 
