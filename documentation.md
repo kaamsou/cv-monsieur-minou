@@ -81,5 +81,5 @@ Le CV est lisible directement en ligne grâce à GitHub Pages.
 ## 📌 Remarques
 
 - Aucun outil en ligne de commande n’a été utilisé : tout a été fait via l’**interface de GitHub**
-- L’exercice m’a permis de mieux comprendre le fonctionnement de Git, GitHub et Markdown
+- Le devoir m’a permis de mieux comprendre le fonctionnement de Git, GitHub et Markdown
 
