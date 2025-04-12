@@ -52,5 +52,5 @@ Validation de la solidité et du confort des boîtes en tout genre.
 
 ## 📫 Me contacter
 
-- [Instagram @monsieur.minou](https://instagram.com/monsieur.minou)
+- [Instagram @monsieur.minouu](https://www.instagram.com/monsieur.minouu/)
 - 🐾 Langage : Miaou++
