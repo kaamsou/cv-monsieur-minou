@@ -13,7 +13,7 @@ Il s’agit du **CV fictif** de Monsieur Minou, un chat professionnel spécialis
 
 - `index.md` : le CV (anciennement `cv.md`)
 - `documentation.md` : explication du projet
-- `minou.jpg` : image illustrative
+- `Mr.minou.png` : image illustrative
 
 ## 🧰 Technologies utilisées
 
