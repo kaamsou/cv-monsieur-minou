@@ -1,31 +1,86 @@
-# Documentation du projet
+# 📄 Documentation du projet – CV de Monsieur Minou 🐱
 
-## Sujet
+## 🎯 Objectif
 
-CV fictif en Markdown de Monsieur Minou, un chat imaginaire.
+Ce projet a été réalisé dans le cadre d’un exercice de cours afin de :
+- S’initier à la rédaction en **Markdown**
+- Se familiariser avec **GitHub**
+- Apprendre à héberger un site avec **GitHub Pages**
 
-## Pourquoi ce projet ?
+---
 
-Ce projet permet de :
-- s'entraîner au Markdown
-- utiliser GitHub pour héberger un site statique
-- s'amuser avec un contenu original et créatif
+## 📁 Contenu du dépôt
 
-## Structure
+Le dépôt GitHub s’intitule `cv-monsieur-minou` et contient les fichiers suivants :
 
-- `cv.md` : contenu principal, le CV du chat
-- `minou.jpg` : photo illustrative
-- `documentation.md` : ce fichier
-- `README.md` : description du projet sur GitHub
+| Fichier           | Rôle                                                                 |
+|------------------|----------------------------------------------------------------------|
+| `index.md`        | Le CV fictif de Monsieur Minou (anciennement `cv.md`)               |
+| `documentation.md` | Le présent fichier, expliquant tout le déroulé du projet            |
+| `minou.jpg`       | Une image illustrative (chat mignon)                                |
+| `README.md`       | Présentation du projet sur GitHub                                   |
 
-## Éléments utilisés
+---
 
-- Titres, gras, italique
-- Liste à puces
-- Liens
-- Images
-- Émojis
+## 🧪 Étapes réalisées
 
-## Déploiement
+### 1. Création d’un dépôt GitHub
+- Création d’un compte GitHub
+- Création d’un dépôt nommé `cv-monsieur-minou`
+- Ajout d’un README au moment de la création
 
-Projet hébergé via GitHub Pages
+### 2. Création des fichiers Markdown
+- Fichier `cv.md` avec le CV fictif d’un chat (texte structuré en Markdown)
+- Fichier `documentation.md` pour expliquer le projet
+- Renommage de `cv.md` en `index.md` pour que GitHub Pages l’affiche par défaut
+
+### 3. Ajout d’une image
+- Téléversement d’un fichier image (`minou.jpg`) via l’interface de GitHub
+
+### 4. Mise en ligne avec GitHub Pages
+- Passage du dépôt en **public** (obligatoire pour activer GitHub Pages)
+- Activation de GitHub Pages dans les **Settings**
+  - Branche : `main`
+  - Dossier : `/ (root)`
+- Génération automatique d’un site web à l’adresse :  
+  `https://[nom-utilisateur].github.io/cv-monsieur-minou/`
+
+> Remplacer `[nom-utilisateur]` par votre pseudo GitHub
+
+---
+
+## ✨ Éléments Markdown utilisés
+
+Ce projet m’a permis d’utiliser de nombreux éléments de syntaxe Markdown :
+
+- Titres `#`, `##`, etc.
+- Texte *en italique* et **en gras**
+- Listes à puces
+- Liens hypertextes `[texte](url)`
+- Insertion d’images `![texte](image.jpg)`
+- Tableaux (comme ci-dessus)
+- Émojis 🐾 pour ajouter une touche fun
+
+---
+
+## 🎨 Choix créatif
+
+J’ai choisi de créer un **CV fictif d’un chat**, car cela me permettait :
+- D’exercer mes compétences en Markdown de manière amusante
+- De montrer la mise en page d’un CV tout en laissant place à l’imagination
+- De m’approprier l’exercice en sortant du cadre strictement académique
+
+---
+
+## ✅ Résultat final
+
+Le projet fonctionne comme un site web statique, accessible depuis un simple lien.  
+Le CV est lisible directement en ligne grâce à GitHub Pages.
+
+---
+
+## 📌 Remarques
+
+- Aucun outil en ligne de commande n’a été utilisé : tout a été fait via l’**interface de GitHub**
+- L’exercice m’a permis de mieux comprendre le fonctionnement de Git, GitHub et Markdown
+
