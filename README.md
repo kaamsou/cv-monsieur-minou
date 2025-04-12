@@ -21,3 +21,7 @@ Il s’agit du **CV fictif** de Monsieur Minou, un chat professionnel spécialis
 - Git & GitHub
 - GitHub Pages
 
+## Auteur 
+
+KEBIR Kamilia
+
