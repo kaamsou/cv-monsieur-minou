@@ -8,7 +8,8 @@
 
 ## 📍 Informations
 
-- **Race** : Chartreux (par choix artistique)
+- **Race** : KHAO Manee (par choix artistique)
+- **Particularité** : Hétérocromie
 - **Âge** : 4 ans
 - **Localisation** : Canapé, rayons de soleil uniquement
 
@@ -25,7 +26,7 @@
 
 ## 💼 Expérience
 
-**Gardien du territoire**, Appartement 3 pièces — *depuis 2021*  
+**Gardien du territoire**, Appartement 3 pièces — *depuis les années lumières*  
 Surveillance active de l'environnement, alerte en cas d'oiseau suspect, marquage stratégique.
 
 **Testeur de cartons**, Amazon Prime — *depuis toujours*  
