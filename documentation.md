@@ -2,7 +2,7 @@
 
 ## 🎯 Objectif
 
-Ce projet a été réalisé dans le cadre d’un exercice de cours afin de :
+Ce projet a été réalisé dans le cadre d’un projet de cours afin de :
 - S’initier à la rédaction en **Markdown**
 - Se familiariser avec **GitHub**
 - Apprendre à héberger un site avec **GitHub Pages**
@@ -35,7 +35,7 @@ Le dépôt GitHub s’intitule `cv-monsieur-minou` et contient les fichiers suiv
 - Renommage de `cv.md` en `index.md` pour que GitHub Pages l’affiche par défaut
 
 ### 3. Ajout d’une image
-- Téléversement d’un fichier image (`minou.jpg`) via l’interface de GitHub
+- Téléversement d’un fichier image (`Mr.minou.png`) via l’interface de GitHub
 
 ### 4. Mise en ligne avec GitHub Pages
 - Passage du dépôt en **public** (obligatoire pour activer GitHub Pages)
@@ -43,9 +43,8 @@ Le dépôt GitHub s’intitule `cv-monsieur-minou` et contient les fichiers suiv
   - Branche : `main`
   - Dossier : `/ (root)`
 - Génération automatique d’un site web à l’adresse :  
-  `https://[nom-utilisateur].github.io/cv-monsieur-minou/`
+  `https://kaamsou.github.io/cv-monsieur-minou/`
 
-> Remplacer `[nom-utilisateur]` par votre pseudo GitHub
 
 ---
 
