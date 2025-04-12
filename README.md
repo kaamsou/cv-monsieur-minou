@@ -7,7 +7,7 @@ Il s’agit du **CV fictif** de Monsieur Minou, un chat professionnel spécialis
 
 ## 🔗 Lien vers le site
 
-👉 [Consulter le CV en ligne](https://tonpseudo.github.io/cv-monsieur-minou/)
+👉 [Consulter le CV en ligne](https://kaamsou.github.io/cv-monsieur-minou/)
 
 ## 🗂 Contenu du projet
 
