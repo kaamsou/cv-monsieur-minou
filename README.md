@@ -23,6 +23,6 @@ Il s’agit du **CV fictif** de Monsieur Minou, un chat professionnel spécialis
 
 ## Auteur 
 
-NOM : KEBIR 
-PRENOM : Kamilia
-NUMERO ETUDIANT : 22405116
+- NOM : KEBIR 
+- PRENOM : Kamilia
+- NUMERO ETUDIANT : 22405116
