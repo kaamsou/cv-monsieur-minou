@@ -12,7 +12,7 @@ Il s’agit du **CV fictif** de Monsieur Minou, un chat professionnel spécialis
 ## 🗂 Contenu du projet
 
 - `index.md` : le CV (anciennement `cv.md`)
-- `documentation.md` : explication du projet
+- `README.md` : explication du projet
 - `Mr.minou.png` : image illustrative
 
 ## 🧰 Technologies utilisées
@@ -45,9 +45,8 @@ Le dépôt GitHub s’intitule `cv-monsieur-minou` et contient les fichiers suiv
 | Fichier           | Rôle                                                                 |
 |------------------|----------------------------------------------------------------------|
 | `index.md`        | Le CV fictif de Monsieur Minou (anciennement `cv.md`)               |
-| `documentation.md` | Le présent fichier, expliquant tout le déroulé du projet            |
 | `Mr.minou.png`       | Une image illustrative (chat mignon)                                |
-| `README.md`       | Présentation du projet sur GitHub                                   |
+| `README.md`       | Présentation et explication du projet sur GitHub                                   |
 
 ---
 
@@ -60,7 +59,7 @@ Le dépôt GitHub s’intitule `cv-monsieur-minou` et contient les fichiers suiv
 
 ### 2. Création des fichiers Markdown
 - Fichier `cv.md` avec le CV fictif d’un chat (texte structuré en Markdown)
-- Fichier `documentation.md` pour expliquer le projet
+- Fichier `README.md` pour expliquer le projet
 - Renommage de `cv.md` en `index.md` pour que GitHub Pages l’affiche par défaut
 
 ### 3. Ajout d’une image
