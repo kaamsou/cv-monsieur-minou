@@ -85,7 +85,7 @@ Ce projet m’a permis d’utiliser de nombreux éléments de syntaxe Markdown :
 - Listes à puces
 - Liens hypertextes `[texte](url)`
 - Insertion d’images `![texte](image.jpg)`
-- Tableaux (comme ci-dessus)
+- Tableaux 
 - Émojis 🐾 pour ajouter une touche fun
 
 ---
