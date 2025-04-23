@@ -3,7 +3,6 @@
 ![Photo de Monsieur Minou](MR.minou.png)
 
 *Félin professionnel, expert en siestes, câlins stratégiques et chasse de chaussettes.*
-
 ---
 
 ## 📍 Informations
@@ -12,6 +11,7 @@
 - **Particularité** : Hétérocromie
 - **Âge** : 4 ans
 - **Localisation** : Canapé, rayons de soleil uniquement
+- **Postule pour devenir le meilleur chat de l'univers**🐾
 
 ---
 
