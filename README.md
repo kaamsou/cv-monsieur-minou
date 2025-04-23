@@ -18,10 +18,10 @@ Il s’agit du **CV fictif** de Monsieur Minou, un chat professionnel spécialis
 ## 🧰 Technologies utilisées
 
 - Markdown
-- Git & GitHub
+- GitHub
 - GitHub Pages
 
-## Auteur 
+## Autrice ✨📄
 
 - NOM : KEBIR 
 - PRENOM : Kamilia
