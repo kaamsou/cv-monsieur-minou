@@ -49,6 +49,25 @@ Validation de la solidité et du confort des boîtes en tout genre.
 - Ronronthérapie
 
 ---
+## 🐾 Journée Typique de Mr MINOU
+
+| Heure        | Activité                           | Détail                          |
+|--------------|------------------------------------|----------------------------------|
+| 06h00        | Réveil stratégique                 | Miaulements intenses pour croquettes |
+| 06h30 - 08h00| Sieste #1                          | Sur l’ordinateur de mon humain  |
+| 08h00 - 09h00| Surveillance du territoire         | Depuis le rebord de la fenêtre  |
+| 09h00 - 11h00| Acrobatie féline                   | Course-poursuite imaginaire dans le salon |
+| 11h00 - 13h00| Sieste #2                          | Dans la boîte en carton préférée |
+| 13h00 - 14h00| Inspection de la cuisine           | Tentative d’infiltration du frigo |
+| 14h00 - 17h00| Sieste #3                          | En boule sur le plaid moelleux  |
+| 17h00 - 18h00| Jeux interactifs avec l'humain     | Poursuite de ficelles, attaque de chaussettes |
+| 18h00 - 20h00| Dîner royal                        | Croquettes + tentative de mendicité à table |
+| 20h00 - 22h00| Surveillance nocturne              | Guet depuis le balcon, oreilles aux aguets |
+| 22h00 - 06h00| Sieste #4 (mode ninja)             | Sur l’oreiller de l’humain sans permission |
+
+🐱 *"Ma mission ? Être mignon, mystérieux et un peu tyrannique."*
+
+---
 
 ## 📫 Me contacter
 
