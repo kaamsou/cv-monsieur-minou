@@ -1,4 +1,4 @@
-# CV de Monsieur Minou 🐱
+# CV de Monsieur Minou 🐱 Introduction :
 CV fictif en Markdown pour Monsieur Minou, le chat parfait.
 
 Ce projet est un exercice de mise en page en Markdown réalisé dans le cadre d’un cours.
